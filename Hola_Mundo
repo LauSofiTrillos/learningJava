@@ -1,0 +1,7 @@
+class MyClass {
+  public static void main(String[] args){
+  System.out.println("Hola Mundo");
+  }
+}
+//Cada programa Java debe tener una clase
+//Cada programa Java comienza en el metodo main
