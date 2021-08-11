@@ -1,0 +1,9 @@
+Class MyClass {
+  public static void main(String[] args){
+    String name = "Sofi"
+    int age = 49;
+    double score = 15.9;
+    char group = 'Z';
+    boolean online = true;
+  }
+}
