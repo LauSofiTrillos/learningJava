@@ -3,5 +3,5 @@ class MyClass {
   System.out.println("Hola Mundo");
   }
 }
-//Cada programa Java debe tener una clase
-//Cada programa Java comienza en el metodo main
+//Cada programa JAVA debe tener una clase
+//Cada programa JAVA comienza en el metodo main
