@@ -8,6 +8,12 @@ class Main{
    int data2 = (int)num2;
    
  System.out.println(data1);
- System.out.println(data1);  
+ System.out.println(data1);
+ 
+//CONVERSION DE ENTERO A STRING
+int age = 24;
+
+  //convertir a String
+  System.out.println("Age:" + age); // Age: 24
  }
 }
