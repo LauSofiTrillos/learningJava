@@ -1,0 +1,20 @@
+// ENTRADA USUARIO 
+import java.util.Scanner;
+class Main{
+ public static void main(String[] args){
+ 
+  // Se crea un Objeto de la clase Scanner
+  Scanner input = new 
+  Scanner(System.in);
+  
+  System.out.println("Enter an Integer: ");
+  
+  // recibir entrada del usuario 
+  int data = input.nextInt();
+  
+  System.out.println("Input Data: " + data);
+  
+  // cerrar Scanner
+  input.close();
+  }
+}
