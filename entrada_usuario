@@ -9,10 +9,22 @@ class Main{
   
   System.out.println("Enter an Integer: ");
   
-  // recibir entrada del usuario 
-  int data = input.nextInt();
+  // recibir entrada(Entero) del usuario 
+  int data1 = input.nextInt();
   
-  System.out.println("Input Data: " + data);
+  System.out.println("Enter a Double: ");
+  
+  // recibir entrada(Double) del usuario 
+  Double data2 = input.nextDouble();
+  
+  System.out.println("Enter Text: ");
+  
+  // recibir entrada(String) del usuario 
+  String data3 = input.nextLine();
+  
+  System.out.println("Input Data Int: " + data1);
+  System.out.println("Input Data Double: " + data2);
+  System.out.println("Input Data String: " + data3);
   
   // cerrar Scanner
   input.close();
