@@ -1,0 +1,13 @@
+//CONVERSION DE DOUBLE A ENTERO 
+class Main{
+  public static void main(String[] args){
+   double num1 = 10.00, num2 = 10.99;
+   
+   // convertir a tipo entero 
+   int data1 = (int)num1;
+   int data2 = (int)num2;
+   
+ System.out.println(data1);
+ System.out.println(data1);  
+ }
+}
